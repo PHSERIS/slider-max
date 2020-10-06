@@ -1,0 +1,20 @@
+{
+  "name": "Slider Maximum",
+
+  "namespace":"Partners\\SliderMax",
+
+  "description": "Change the maximum value of a slider field",
+
+  "authors": [
+    {
+      "name": "David Clark",
+      "email": "dclark27@partners.org",
+      "institution": "Partners Healthcare"
+    }
+  ],
+
+  "permissions": [
+    "redcap_survey_page_top", "redcap_data_entry_form_top"
+  ]
+
+}
